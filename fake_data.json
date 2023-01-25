@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 1003,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rita Liao",
+            "title": "Alibaba CEO to oversee cloud arm following major server outage",
+            "description": "When Alibaba’s former CEO Jack Ma passed the torch to Daniel Zhang, he established a system that regularly rotates executives to ensure the company always stays agile in the fast-changing internet space. It’s time for this year’s reshuffle — the e-commerce an…",
+            "url": "https://techcrunch.com/2022/12/29/alibaba-reshuffle-2022/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/2022_11_Jeff-Zhang.jpg",
+            "publishedAt": "2022-12-29T09:44:12Z",
+            "content": "When Alibaba’s former CEO Jack Ma passed the torch to Daniel Zhang, he established a system that regularly rotates executives to ensure the company always stays agile in the fast-changing internet sp… [+3905 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Twitter suffers another outage",
+            "description": "If Twitter isn’t loading fine for you, you’re not alone. Tens of thousands of users are complaining that they are unable to access the Elon Musk-owned social network, seeing scores of strange error-messages instead. Issues include being greeted with a blank p…",
+            "url": "https://techcrunch.com/2022/12/28/twitter-down-outage/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/twitter-melting.jpg?resize=1200,645",
+            "publishedAt": "2022-12-29T03:03:57Z",
+            "content": "If Twitter isn’t loading fine for you, you’re not alone. Tens of thousands of users are complaining that they are unable to access the Elon Musk-owned social network, seeing scores of strange error m… [+1596 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Henry Pickavet",
+            "title": "Daily Crunch: Startup says it has received $1M in preorders for its $60K hydrofoiling personal watercraft - TechCrunch",
+            "description": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+            "url": "https://techcrunch.com/2022/12/28/daily-crunch-startup-says-it-has-received-1m-in-preorders-for-its-60k-hydrofoiling-personal-watercraft/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/Boundary-Layer-Large.jpeg?resize=1200,675",
+            "publishedAt": "2022-12-28T23:06:12Z",
+            "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PDT,subscribe here.\r\nHey, folks, welcome back! Below weve got some 2022 roundups and eve… [+3170 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "The transportation stories that drove 2022",
+            "description": "2022 was the kind of year that made us think, \"What a time to be alive and reporting on transportation.\" This year was absolutely dominated by conversations around the realities of bringing self-driving cars to market, the potential upheaval of th",
+            "url": "https://techcrunch.com/2022/12/28/the-transportation-stories-that-drove-2022/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/richmond-bolt-.png?resize=1200,930",
+            "publishedAt": "2022-12-28T20:03:40Z",
+            "content": "2022 was the kind of year that made us think, What a time to be alive and reporting on transportation. This year was absolutely dominated by conversations around the realities of bringing self-drivin… [+6176 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Karan Bhasin",
+            "title": "The best TechCrunch+ investor surveys of 2022",
+            "description": "With the end of 2022 right around the corner, here's a look at some of the more interesting answers some of our surveys unearthed this year.\nThe best TechCrunch+ investor surveys of 2022 by Karan Bhasin originally published on TechCrunch",
+            "url": "https://techcrunch.com/2022/12/28/the-best-techcrunch-investor-surveys-from-2022/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1047518146.jpg?resize=1200,800",
+            "publishedAt": "2022-12-28T19:09:04Z",
+            "content": "In horse racing, the most reliable tips about which horse will likely win often come from the stable boys, since they’re the ones closest to the source.\r\nSo when we thought about the best ways to fin… [+14310 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anna Heim",
+            "title": "The rise of platform engineering, an opportunity for startups",
+            "description": "Increased developer efficiency requires two key components: better team organization and better tools. The rise of platform engineering, an opportunity for startups by Anna Heim originally published on TechCrunch",
+            "url": "https://techcrunch.com/2022/12/28/the-rise-of-platform-engineering-an-opportunity-for-startups/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3_RD.jpg?resize=1200,900",
+            "publishedAt": "2022-12-28T19:00:46Z",
+            "content": "More than half of professional developers have CI/CD, DevOps and automated testing tools and services available at their organization, Stack Overflow’s 2022 developer survey uncovered.\r\nHowever, Stac… [+1009 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jacquelyn Melinek",
+            "title": "Bitcoin miner Argo to avoid bankruptcy with $100M deal from Galaxy Digital",
+            "description": "Galaxy plans to acquire Argo's bitcoin mining facility Helios for $65 million and provide a $35 million loan amid the miner's restructuring. Bitcoin miner Argo to avoid bankruptcy with $100M deal from Galaxy Digital by Jacquelyn Melinek originally",
+            "url": "https://techcrunch.com/2022/12/28/bitcoin-miner-argo-to-avoid-bankruptcy-with-100m-deal-from-galaxy-digital/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-923515584.jpg?resize=1200,800",
+            "publishedAt": "2022-12-28T18:03:24Z",
+            "content": "Galaxy Digital has agreed to acquire Argo Blockchains bitcoin mining facility Helios for $65 million, the two firms announced Wednesday.\r\nThe deal also includes Galaxy acquiring related operations fr… [+2259 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Connie Loizos",
+            "title": "How to spin up an investing network from scratch as a first-time founder",
+            "description": "Building an investor network from scratch sounds daunting, particularly if you aren't part of a circle where talking to potential investors is easy. How to spin up an investing network from scratch as a first-time founder by Connie Loizos originally p",
+            "url": "https://techcrunch.com/2022/12/28/how-to-spin-up-vc/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-163689960-e1649872600638.jpg?resize=1200,800",
+            "publishedAt": "2022-12-28T18:00:32Z",
+            "content": "Building an investor network from scratch sounds daunting. This is true particularly if, like many founders, you don’t happen to be part of a social or economic circle where striking up early convers… [+2546 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Amanda Silberling",
+            "title": "Some good news from this year in tech",
+            "description": "When you think of the biggest tech stories of the year, you probably think of something like Elon Musk buying Twitter, former crypto wunderkind Sam Bankman-Fried's FTX filing for bankruptcy, all the people who lost their life savings when UST imploded",
+            "url": "https://techcrunch.com/2022/12/28/some-good-news-from-this-year-in-tech/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/cosmic-cliffs.jpeg",
+            "publishedAt": "2022-12-28T17:02:48Z",
+            "content": "When you think of the biggest tech stories of the year, you probably think of something like Elon Musk buying Twitter, former crypto wunderkind Sam Bankman-Frieds FTX filing for bankruptcy, all the p… [+8358 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Simonds",
+            "title": "Sneak peek: Look who's pitching at the CCC Web3 Demo Day",
+            "description": "We're excited to announce two more early-stage startups participating in the Cross Chain Coalition Web3 Demo Day on January 11. If you haven't heard, this free online showcase features more than 12 of today's most exciting projects building we",
+            "url": "https://techcrunch.com/2022/12/28/sneak-peek-look-whos-pitching-at-the-ccc-web3-demo-day/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/CCC_BLACK-featured-2.jpg",
+            "publishedAt": "2022-12-28T17:00:56Z",
+            "content": "Were excited to announce two more early-stage startups participating in the Cross Chain Coalition Web3 Demo Day on January 11. If you havent heard, this free online showcase features more than 12 of … [+1571 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ram Iyer",
+            "title": "Dear Sophie: Do employees have to stop working until they get their EAD?",
+            "description": "Can the EAD process be expedited? Do employees have to stop working if they don't receive their new EAD card before the old one expires? Dear Sophie: Do employees have to stop working until they get their EAD? by Ram Iyer originally published on TechC",
+            "url": "https://techcrunch.com/2022/12/28/dear-sophie-do-employees-have-to-stop-working-until-they-get-their-ead/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/01/dear-sophie-immigration-maze-3.jpg?resize=1200,675",
+            "publishedAt": "2022-12-28T17:00:41Z",
+            "content": "More posts by this contributor\r\nHere’s another edition of “Dear Sophie,” the advice column that answers immigration-related questions about working at technology companies.\r\n“Your questions are vital… [+2738 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Haje Jan Kamps",
+            "title": "$60K personal water toy lands $1M worth of preorders",
+            "description": "There's a lot of activity in the world of hydrofoiling electric boats at the moment.",
+            "url": "https://techcrunch.com/2022/12/28/boundary-layer-pre-orders/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/Boundary-Layer-Large.jpeg?resize=1200,675",
+            "publishedAt": "2022-12-28T16:23:09Z",
+            "content": "It takes a special kind of boldness to raise a wad of cash, claim to have $90 million worth of preorders, then pivot away from passenger ferries and light container ships, and instead start selling $… [+1212 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Aisha Malik",
+            "title": "Amazon is working on a standalone app for sports content, new report claims",
+            "description": "Amazon is developing a standalone app for watching sports, according to a new report from The Information. The move signals Amazon’s continued push toward investing in Prime Video and live sports content. If released, the standalone app would better highlight…",
+            "url": "https://techcrunch.com/2022/12/28/amazon-standalone-app-watching-sports-content-report-claims/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/amazon-logo.jpg?resize=1200,653",
+            "publishedAt": "2022-12-28T16:07:01Z",
+            "content": "Amazon is developing a standalone app for watching sports, according to a new report from The Information. The move signals Amazon’s continued push toward investing in Prime Video and live sports con… [+1990 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "Ample's founder explains what it takes to scale EV battery swapping",
+            "description": "De Souza discusses the implications of China's investments in battery swapping, challenges in scaling fast-charging infrastructure and more. Ample's founder explains what it takes to scale EV battery swapping by Rebecca Bellan originally published",
+            "url": "https://techcrunch.com/2022/12/28/amples-founder-explains-what-it-takes-to-scale-ev-battery-swapping/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/de-souza-ample-alt.jpg?resize=1200,675",
+            "publishedAt": "2022-12-28T16:00:55Z",
+            "content": "The conversation around widespread electric vehicle adoption has been inherently linked with charging: Are the chargers plentiful? Will they charge my car fast enough? Are they plugged into a grid th… [+3869 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ram Iyer",
+            "title": "How to protect your IP during fundraising so you don't get ripped off",
+            "description": "Venture firms are often involved in multiple deals, so the need to protect one's IP during early fundraising is far from theoretical. How to protect your IP during fundraising so you don't get ripped off by Ram Iyer originally published on TechCru",
+            "url": "https://techcrunch.com/2022/12/28/how-to-protect-your-ip-during-fundraising-so-you-dont-get-ripped-off/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1085940538.jpg?resize=1200,800",
+            "publishedAt": "2022-12-28T15:00:51Z",
+            "content": "The most important asset early-stage companies possess is their intellectual property. But IP can be difficult to protect during fundraising, because venture firms reviewing confidential pitch materi… [+2136 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Carly Page",
+            "title": "US House bans TikTok on lawmakers' official phones",
+            "description": "Over a dozen U.S. states and the U.S. military also banned TikTok on government devices fearing it could be used for spying on Americans.",
+            "url": "https://techcrunch.com/2022/12/28/house-bans-tiktok-lawmakers-phones/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1243334500.jpg?resize=1200,798",
+            "publishedAt": "2022-12-28T14:36:52Z",
+            "content": "The U.S. House of Representatives has ordered its staff and lawmakers to delete TikTok from any government-issued mobile devices due to security issues with the popular video-sharing app.\r\nThe order … [+2525 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Code-generating AI can introduce security vulnerabilities, study finds",
+            "description": "Researchers at Stanford find that code-generating AI systems can cause developers to overlook security vulnerabilities in apps.",
+            "url": "https://techcrunch.com/2022/12/28/code-generating-ai-can-introduce-security-vulnerabilities-study-finds/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-537331500.jpg?resize=1200,800",
+            "publishedAt": "2022-12-28T14:30:44Z",
+            "content": "A recent study finds that software engineers who use code-generating AI systems are more likely to cause security vulnerabilities in the apps they develop. The paper, co-authored by a team of researc… [+4669 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Miranda Halpern",
+            "title": "Hot takes: How TechCrunch+ covered climate tech in 2022",
+            "description": "Climate tech is more relevant than ever in 2022, so we rounded up our hottest TechCrunch+ climate coverage over the past year. Hot takes: How TechCrunch+ covered climate tech in 2022 by Miranda Halpern originally published on TechCrunch",
+            "url": "https://techcrunch.com/2022/12/28/how-techcrunch-covered-climate-tech-in-2022-hot-takes/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1354849625.jpg?resize=1200,840",
+            "publishedAt": "2022-12-28T14:00:07Z",
+            "content": "Climate became an increasingly popular topic in 2021, perhaps best showcased in pieces like this interview with Eric Dean Wilson on why air conditioning, one of the greatest inventions of the 20th ce… [+2684 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "This tool helps you trim your follow list on Twitter",
+            "description": "Twitter is a mess, but it’s still addictive. While some folks might have headed to Mastadon, those who stick around might still want to get the best out of the bird site. If you feel that your timeline is very cluttered, a new tool named Prune your follows ca…",
+            "url": "https://techcrunch.com/2022/12/28/this-tool-helps-you-trim-your-follow-list-on-twitter/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/birds-talking-4.jpg?resize=1200,645",
+            "publishedAt": "2022-12-28T13:47:27Z",
+            "content": "Twitter is a mess, but it’s still addictive. While some folks might have headed to Mastadon, those who stick around might still want to get the best out of the bird site. If you feel that your timeli… [+2604 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Pakistan cracks down on sketchy digital lending",
+            "description": "Pakistan’s markets regulator issued new guidelines for digital lending in the country, cracking down on several sketchy practices that it said have become prevalent in the South Asian market. The Securities and Exchange Commission of Pakistan said Wednesday e…",
+            "url": "https://techcrunch.com/2022/12/28/pakistan-cracks-down-on-sketchy-digital-lending/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/pakistan-landscape-image-GettyImages.jpg",
+            "publishedAt": "2022-12-28T13:36:17Z",
+            "content": "Pakistans markets regulator issued new guidelines for digital lending in the country, cracking down on several sketchy practices that it said have become prevalent in the South Asian market.\r\nThe Sec… [+1497 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Brian Heater",
+            "title": "Movano's new smart ring is focused on women's health",
+            "description": "Movano's getting a week's jump on what might well prove a banner CES for the smart ring. Today the Bay Area-based firm debuted Evie, a smart ring focused on women's health set to hit the market later next year. The device capitalizes on the re",
+            "url": "https://techcrunch.com/2022/12/28/movanos-new-smart-ring-is-focused-on-womens-health/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/Evie_3xRings_Shadow.jpg?resize=1200,800",
+            "publishedAt": "2022-12-28T12:00:57Z",
+            "content": "Movanos getting a weeks jump on what might well prove a banner CES for the smart ring. Today the Bay Area-based firm debuted Evie, a smart ring focused on womens health set to hit the market later ne… [+2787 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Henry Pickavet",
+            "title": "Daily Crunch: What’s around the corner for the EV market in 2023?",
+            "description": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+            "url": "https://techcrunch.com/2022/12/27/daily-crunch-whats-around-the-corner-for-the-ev-market-in-2023/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1405480915.jpg?resize=1200,822",
+            "publishedAt": "2022-12-28T00:30:28Z",
+            "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PDT,subscribe here.\r\nGreetings, readers. As Haje and Christine told you last week, this … [+4139 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": null,
+            "title": "Samsung Galaxy Tab A 10.1\" 32GB - Space Gray (Refurbished) for $165",
+            "description": "Expires December 28, 2122 23:59 PST\n\n\n\n\n Buy now and get 27% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nSamsung Galaxy Tab A 10.1\" is a perfect companion for your everyday adventures, be it work or play. Feel immersed in your f…",
+            "url": "https://deals.thenextweb.com/sales/refurbished-samsung-galaxy-tab-a-10-1-32gb-space-gray?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+            "urlToImage": "https://cdnp3.stackassets.com/8c1efbfb697731bebd60f75020828d676b54593a/store/34e6acdb281af45fef274be8f33a1b57177a1ff3830715c534fa0703da56/sale_319943_primary_image.jpg",
+            "publishedAt": "2022-12-28T00:00:01Z",
+            "content": "Samsung Galaxy Tab A 10.1\" is a perfect companion for your everyday adventures, be it work or play. Feel immersed in your favorite films as the Dolby Atmos surround sound fills the room with sound, a… [+702 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": null,
+            "title": "Asus 11.6\" Chromebook Intel Celeron N3060 4GB RAM 16GB - Gray (Refurbished) for $73",
+            "description": "Expires December 28, 2122 23:59 PST\n\n\n\n\n Buy now and get 55% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nThe Asus Chromebook C202 is the ideal education computer for every school IT administrator, student, and teacher. With its …",
+            "url": "https://deals.thenextweb.com/sales/refurbished-asus-11-6-chromebook-c202s-4gb-16gb?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+            "urlToImage": "https://cdnp2.stackassets.com/48cf5b80f526aefcf16dc843c80f1aacbc9b351f/store/c34024256832398b2d994966f2d2a4aced16599a78cab21a2cd44bea37d3/sale_319939_primary_image.jpg",
+            "publishedAt": "2022-12-28T00:00:01Z",
+            "content": "The Asus Chromebook C202 is the ideal education computer for every school IT administrator, student, and teacher. With its classroom robustness, this refurbished ASUS Chromebook is built to meet the … [+679 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": null,
+            "title": "Lenovo 500e 11.6\" 2-in-1 Chromebok Intel Celeron N3450, 32GB SSD - Black (Refurbished) for $86",
+            "description": "Expires December 28, 2122 23:59 PST\n\n\n\n\n Buy now and get 74% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nThe Lenovo 500e 11.6\" 2-in-1 Chromebook is a versatile tablet and laptop in one. With its 360-degree hinge, it gives you fo…",
+            "url": "https://deals.thenextweb.com/sales/refurbished-lenovo-11-6-2-in-1-chromebook-intel-celeron-n3450-1600-mhz-ram-32-gb-ssd?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+            "urlToImage": "https://cdnp2.stackassets.com/49756427c6e6dbeb0e4757b0b3c74f2b337b62bb/store/c33aedc60a00e9a4cde03c781249737a6f24ddf697b71a145b5a9000c910/sale_319940_primary_image.jpg",
+            "publishedAt": "2022-12-28T00:00:01Z",
+            "content": "The Lenovo 500e 11.6\" 2-in-1 Chromebook is a versatile tablet and laptop in one. With its 360-degree hinge, it gives you four modes of use: stand, tent, flat, and laptop. This thin, lightweight devic… [+658 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": null,
+            "title": "Microsoft Surface Laptop 2 Intel Core i5, 8GB RAM 256GB - Silver (Refurbished) for $412",
+            "description": "Expires December 28, 2122 23:59 PST\n\n\n\n\n Buy now and get 36% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nThe Microsoft Surface Laptop 2 is perfect for a variety of tasks, from casual web surfing and email to more complex applica…",
+            "url": "https://deals.thenextweb.com/sales/refurbished-microsoft-surface-laptop-2-intel-core-i5-8gb-ram-256gb-windows-10-platinum?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+            "urlToImage": "https://cdnp2.stackassets.com/67ba19b8febb97b709cc9dc7fdc91eb57572014e/store/1a67820b6d4d0151cad3de9c17f4fa19b3d0edf6b3c9d41927fe1d3a0da2/sale_319942_primary_image.jpg",
+            "publishedAt": "2022-12-28T00:00:01Z",
+            "content": "The Microsoft Surface Laptop 2 is perfect for a variety of tasks, from casual web surfing and email to more complex applications like graphic design, programming, and video editing. The 14\" touch scr… [+779 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "Y Combinator-backed Poly uses AI to generate art assets",
+            "description": "As generative AI like ChatGPT and DALL-E 2 attract investor attention, startup entrepreneurs are looking to cash in with new business models built around them. One of the more interesting ventures to emerge from the space recently is Poly, which lets designer…",
+            "url": "https://techcrunch.com/2022/12/27/y-combinator-backed-poly-uses-ai-to-generate-art-assets/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?resize=1200,675",
+            "publishedAt": "2022-12-27T22:30:24Z",
+            "content": "As generative AI like ChatGPT and DALL-E 2 attract investor attention, startup entrepreneurs are looking to cash in with new business models built around them. One of the more interesting ventures to… [+6246 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jacquelyn Melinek",
+            "title": "Top Solana NFT projects DeGods and y00ts to leave the blockchain and 'explore new opportunities'",
+            "description": "Solana-based NFT collections DeGods and y00ts have announced they’re leaving the blockchain in 2023 in a move to explore new opportunities",
+            "url": "https://techcrunch.com/2022/12/27/top-solana-nft-projects-degods-and-y00ts-to-leave-the-blockchain-and-explore-new-opportunities/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1312996884.jpg?resize=1200,840",
+            "publishedAt": "2022-12-27T22:05:27Z",
+            "content": "Two top Solana NFT projects, DeGods and y00ts, have announced they are leaving the blockchain in 2023, which is stirring up conflicting sentiments in the crypto community.\r\nOver the weekend, DeGods a… [+1552 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Harri Weber",
+            "title": "Clean energy: Scrubbing wind turbines with robots nets Aerones $39M",
+            "description": "Aerones, a robotics startup that scrubs and inspects wind turbines so humans don't have to, secured $38.9 million in fresh funding this month from dozens of undisclosed investors, TechCrunch has learned. Wind turbines produce clean energy, but their t",
+            "url": "https://techcrunch.com/2022/12/27/clean-energy-scrubbing-wind-turbines-with-robots-nets-aerones-39m/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/aerones-wind-turbine.jpg?resize=1200,729",
+            "publishedAt": "2022-12-27T21:01:55Z",
+            "content": "Aerones, a robotics startup that scrubs and inspects wind turbines so humans don’t have to, secured $38.9 million in fresh funding this month from dozens of undisclosed investors, TechCrunch has lear… [+1208 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ram Iyer",
+            "title": "Taking advantage of Latin America's market downturn",
+            "description": "In any region with extremely low productivity and slow economic growth, disruption will create long-term value. Taking advantage of Latin America's market downturn by Ram Iyer originally published on TechCrunch",
+            "url": "https://techcrunch.com/2022/12/27/taking-advantage-of-latin-americas-market-downturn/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-77189229.jpg?resize=1200,900",
+            "publishedAt": "2022-12-27T19:00:00Z",
+            "content": "Latin American venture capital and growth investments through 2018 had averaged less than $2 billion per year. With quality growth companies starved for capital, the few investors active in the regio… [+3105 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Devin Coldewey",
+            "title": "There is no 'Next Twitter,' and that's OK",
+            "description": "As the future wreckage of Twitter skywrites a tale of hubris across the sky, many have chosen — or had the choice made for them — to direct their gaze instead at the horizon, in hopes of seeing some beacon of hope, shining through the bomb cyc",
+            "url": "https://techcrunch.com/2022/12/27/there-is-no-next-twitter-and-thats-ok/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/twitter-exit-2.jpg?resize=1200,645",
+            "publishedAt": "2022-12-27T18:45:26Z",
+            "content": "As the future wreckage of Twitter skywrites a tale of hubris across the sky, many have chosen or had the choice made for them to direct their gaze instead at the horizon, in hopes of seeing some beac… [+5972 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Tim De Chant",
+            "title": "Six climate tech trends to watch for in 2023",
+            "description": "With more investors looking to dip their toes in climate tech, here's where they're likely to put their money to work next year. Six climate tech trends to watch for in 2023 by Tim De Chant originally published on TechCrunch",
+            "url": "https://techcrunch.com/2022/12/27/six-hot-climate-tech-trends-to-watch-for-in-2023/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-565975175.jpg?resize=1200,801",
+            "publishedAt": "2022-12-27T18:00:31Z",
+            "content": "With 2022 in retreat, investors have made no secret that theyre looking for safe investments. In a challenging market with higher interest rates, thats no surprise, but what might raise eyebrows is w… [+2964 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Embracing digital commerce may be retailers' best bet for staying ahead of a fast-moving industry",
+            "description": "It's time to take a look at where the digital commerce industry is headed, who the dominant players will be, what the challenges to adoption are and what brands will have to do to keep up. Embracing digital commerce may be retailers' best bet for",
+            "url": "https://techcrunch.com/2022/12/27/digital-commerce-retailers/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1210935014.jpg?resize=1200,800",
+            "publishedAt": "2022-12-27T17:00:18Z",
+            "content": "Myriad companies have made digitally driven commerce work for them, but others have struggled to find success or are unsure where to start.\r\nBetween livestreaming and big players like TikTok, Amazon … [+1675 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Carly Page",
+            "title": "The badly handled data breaches of 2022",
+            "description": "2022 has been a year-long lesson in how not to respond to a data breach.",
+            "url": "https://techcrunch.com/2022/12/27/badly-handled-data-breaches-2022/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1321050368.jpg?resize=1200,800",
+            "publishedAt": "2022-12-27T16:08:07Z",
+            "content": "Data breaches can be extremely harmful to organizations of all shapes and sizes but its how these companies react to the incident that can deal their final blow. While weve seen some excellent exampl… [+7859 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Dominic-Madori Davis",
+            "title": "All we are saying is give due diligence a chance in 2023",
+            "description": "You should never be signing checks because all the cool kids are doing it — that is never a sound approach to doing most things in life, let alone investing millions of dollars. All we are saying is give due diligence a chance in 2023 by Dominic-Mad",
+            "url": "https://techcrunch.com/2022/12/27/all-we-are-saying-is-give-due-diligence-a-chance-in-2023/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/due-diligence.jpg?resize=1200,645",
+            "publishedAt": "2022-12-27T16:00:34Z",
+            "content": "Looking back, 2022 was quite the year for some investors, and not in a good way. Mistakes made in the boom period of the past couple of years led to many write-downs, but the most egregious example o… [+2436 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Theresa Loconsolo",
+            "title": "Special episode: Augmenting creativity with Alice Albrecht from re:collect (Found)",
+            "description": "The Equity crew is kicking off your week with a special episode from our sister podcast, Found, the stories behind the startups. Co-hosts Darrell Etherington and Becca Szkutak spoke with Alice Albrecht from Re:collect, a software tool that augments creativity…",
+            "url": "https://techcrunch.com/2022/12/27/special-episode-augmenting-creativity-with-alice-albrecht-from-recollect-found/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/equity-podcast-2019-phone.webp",
+            "publishedAt": "2022-12-27T15:50:13Z",
+            "content": "The Equity crew is kicking off your week with a special episode from our sister podcast, Found, the stories behind the startups. Co-hosts Darrell Etherington and Becca Szkutak spoke with Alice Albrec… [+540 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "An EV-plosion awaits in 2023, and it'll be packed with tech",
+            "description": "Boosted electric vehicle sales in Q1, metaverse applications and more investment into charging -- our EV predictions for 2023.",
+            "url": "https://techcrunch.com/2022/12/27/an-ev-plosion-awaits-in-2023-and-itll-be-packed-with-tech/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1405480915.jpg?resize=1200,822",
+            "publishedAt": "2022-12-27T15:00:31Z",
+            "content": "2022 was the year that electric vehicles entered the mainstream. Not everyone has one, but buying an EV no longer makes you an outlier. Driven by policy initiatives from governments and billions of d… [+8667 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ram Iyer",
+            "title": "Digital health startups can incorporate clinical expertise into business models - here's how - TechCrunch",
+            "description": "Digital health startups should have clinical experts as part of its leadership to ensure care is always based on the patient's medical needs.",
+            "url": "https://techcrunch.com/2022/12/27/digital-health-startups-can-incorporate-clinical-expertise-into-business-models-heres-how/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
+            "publishedAt": "2022-12-27T14:31:17Z",
+            "content": "Early indications show funding to digital health startups in Q4 2022 fell so much, they’re close to levels last seen in 2019.\r\nBut the dollar amounts dont tell the whole story. How you grow as a digi… [+2365 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Uber and Amazon blasted for poor working conditions for gig workers in India",
+            "description": "Research firm Fairwork blasted Ola, Uber, Dunzo, PharmEasy and Amazon Flex in a report, saying the firms scored zero in its assessment of whether they created fair conditions for their gig economy workers.",
+            "url": "https://techcrunch.com/2022/12/27/uber-and-amazon-blasted-for-poor-working-conditions-for-gig-workers-in-india/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/05/amazon-india.jpg?resize=1200,640",
+            "publishedAt": "2022-12-27T14:12:46Z",
+            "content": "Research firm Fairwork India blasted Ola, Uber, Dunzo, PharmEasy and Amazon Flex in a report Tuesday, saying the firms scored zero in its assessment of whether they created fair conditions for their … [+2024 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Aoibhinn Mc Bride",
+            "title": "Job seekers, want to build a stable career in tech in 2023? Check out these industries",
+            "description": "Talk of a tech recession and mass layoffs across the sector dominated the headlines in 2022.\r\n\r\nAnd while certain areas have contracted and companies have acted accordingly by reducing ...",
+            "url": "https://thenextweb.com/news/job-seekers-want-to-build-a-stable-career-in-tech-in-2023-check-out-these-industries",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F12%2FUntitled-design-1-5.jpg&signature=a48c10fb21707437aaee61af4a8dcb0b",
+            "publishedAt": "2022-12-27T10:13:31Z",
+            "content": "Talk of a tech recession and mass layoffs across the sector dominated the headlines in 2022.\r\nAnd while certain areas have contracted and companies have acted accordingly by reducing their workforces… [+4810 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Cate Lawrence",
+            "title": "It's not easy being green: How mobility will change in 2023",
+            "description": "Few could have predicted the economic and geopolitical landscape that confronted the mobility sector in 2022. With the industry still reeling from materials shortages — particularly ...",
+            "url": "https://thenextweb.com/news/how-mobility-will-change-in-2023",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F12%2Fmobility-in-2023.jpg&signature=5d9c5b525636fa7ac6c2f5910c0a2004",
+            "publishedAt": "2022-12-27T10:00:42Z",
+            "content": "Few could have predicted the economic and geopolitical landscape that confronted the mobility sector in 2022. With the industry still reeling from materials shortages particularly semiconductor chips… [+7890 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "Balance is a Mac timekeeper app that requires you to manually clock in your hours",
+            "description": "There are plenty of time-tracking apps for Mac that automatically log the hours you’ve spent signed-in. Some even offer granular data, telling you how much time you spent on a particular app. A new app called Balance is taking a slightly different approach to…",
+            "url": "https://techcrunch.com/2022/12/27/balance-is-a-mac-timekeeper-app-that-requires-you-to-manually-clock-in-your-hours/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/Balance-time-keeper-app.jpg?resize=1200,675",
+            "publishedAt": "2022-12-27T09:01:24Z",
+            "content": "There are plenty of time-tracking apps for Mac that automatically log the hours you’ve spent signed-in. Some even offer granular data, telling you how much time you spent on a particular app. A new a… [+3060 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rita Liao",
+            "title": "Baidu starts offering nighttime driverless taxis in China",
+            "description": "Baidu, the Chinese internet giant that became known for its search engines, is making some big strides in autonomous driving. Starting this week, the public can ride its robotaxis in Wuhan between 7 am and 11 pm without safety drivers behind the wheel. Previo…",
+            "url": "https://techcrunch.com/2022/12/26/baidu-night-time-driverless-robotaxis-china/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/baidu-apollo.jpg?resize=1200,773",
+            "publishedAt": "2022-12-27T07:16:56Z",
+            "content": "Baidu, the Chinese internet giant that became known for its search engines, is making some big strides in autonomous driving.\r\nStarting this week, the public can ride its robotaxis in Wuhan between 7… [+2674 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Catherine Shu",
+            "title": "Jakarta-based fintech Akulaku raises $200M from Japan’s largest bank",
+            "description": "Jakarta-based fintech Akulaku has raised $200 million from Mitsubishi UFJ Financial Group (MUFG), the largest bank in Japan. This is part of a strategic investment, with startup and MUFG planning to expand into new markets and product together in 2023. Earlie…",
+            "url": "https://techcrunch.com/2022/12/26/akulaku-mufg/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1388714231.jpg?resize=1200,800",
+            "publishedAt": "2022-12-27T04:48:06Z",
+            "content": "Jakarta-based fintech Akulaku has raised $200 million from Mitsubishi UFJ Financial Group (MUFG), the largest bank in Japan. This is part of a strategic investment, with startup and MUFG planning to … [+1350 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": null,
+            "title": "Apple iPad Air 16GB - Space Gray (Refurbished: Wi-Fi Only) for $99",
+            "description": "Expires December 27, 2122 23:59 PST\n\n\n\n\n Buy now and get 33% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nApple introduces the 64-bit architecture to the iPad Air which allows for more robust and powerful apps. The iPad Air 1 is the entr…",
+            "url": "https://deals.thenextweb.com/sales/refurbished-apple-ipad-air-1-16gb-wifi-space-gray?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+            "urlToImage": "https://cdnp2.stackassets.com/813765dd82f1e73f30d63039342c4fbde02a6f0b/store/1aa42c4019d5e0a37b17fd7d87f51d3e5d3beca32a46f5718675d995ab12/sale_319937_primary_image.jpg",
+            "publishedAt": "2022-12-27T00:00:01Z",
+            "content": "Apple introduces the 64-bit architecture to the iPad Air which allows for more robust and powerful apps. The iPad Air 1 is the entry-level model in Apples iPad family, featuring a high-performance 9.… [+892 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": null,
+            "title": "Lenovo ThinkPad T470 14\" 8GB/256GB Win10 Pro - Black (Refurbished) for $226",
+            "description": "Expires December 27, 2122 23:59 PST\n\n\n\n\n Buy now and get 66% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nThe Lenovo ThinkPad T470 Notebook gives you the features and functionalities you need to thrive in the most pressing situat…",
+            "url": "https://deals.thenextweb.com/sales/refurbished-lenovo-thinkpad-t470-20hd000rus-14-inches-fhd-1920x1080-ips-display-intel-i5-6300u-processor-8gb-ram-12?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+            "urlToImage": "https://cdnp0.stackassets.com/2d43c7d15a4ff714fc9d9a6da266b954b0b6d516/store/4538da5485e5b1662df7492b42f7179cb7b9b0e00d6b66a1984d46c5d2bd/sale_319941_primary_image.jpg",
+            "publishedAt": "2022-12-27T00:00:01Z",
+            "content": "The Lenovo ThinkPad T470 Notebook gives you the features and functionalities you need to thrive in the most pressing situations. It is powered by the 6th Gen Intel Core i5-6300U Dual-Core CPU with a … [+1154 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers",
+            "title": "What to expect from AI in 2023",
+            "description": "What might 2023 hold for AI after an eventful year? TechCrunch spoke to experts in the field to get their takes.",
+            "url": "https://techcrunch.com/2022/12/26/what-to-expect-from-ai-in-2023/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1127605290.jpg?resize=1200,878",
+            "publishedAt": "2022-12-26T13:30:46Z",
+            "content": "As a rather commercially successful author once wrote, “the night is dark and full of terrors, the day bright and beautiful and full of hope.” It’s fitting imagery for AI, which like all tech has its… [+11386 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ram Iyer",
+            "title": "High-growth startups should start de-risking their path to IPO now",
+            "description": "Market downturns might not be the time to scale as usual, but they're undeniably the ideal time to plan for an IPO.\nHigh-growth startups should start de-risking their path to IPO now by Ram Iyer originally published on TechCrunch",
+            "url": "https://techcrunch.com/2022/12/26/high-growth-startups-should-start-de-risking-their-path-to-ipo-now/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1127822209.jpg?resize=1200,800",
+            "publishedAt": "2022-12-26T13:00:21Z",
+            "content": "High-growth companies often set significant goals, knowing full well that the idea of “overnight success” is for the storybooks. However, there is no better time than the middle of a market downturn … [+2238 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "How to make our homes and buildings more sustainable in 2023 - TNW",
+            "description": "According to the International Energy Association (IEA), the buildings sector in 2021 was responsible for around one-third of global energy and process-related CO2 emissions.\r\n\r\nSpecifically, ...",
+            "url": "https://thenextweb.com/news/how-to-make-our-homes-and-buildings-more-sustainable-in-2023",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F12%2FUntitled-design-97-3.jpg&signature=70e7fb88f529a93d65d8c21081fb9345",
+            "publishedAt": "2022-12-26T10:00:00Z",
+            "content": "According to the International Energy Association (IEA), the buildings sector in 2021 was responsible for around one-third of global energy and process-related CO2 emissions.\r\nSpecifically, 6% of the… [+2991 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "The Conversation",
+            "title": "Research shows compassionate people make better business leaders",
+            "description": "In the month after Elon Musk triumphantly announced his takeover of Twitter with his now famous “the bird is freed” tweet, he implemented a large-scale cull of the social media ...",
+            "url": "https://thenextweb.com/news/elon-musk-business-leaders-compassionate-evidence",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F12%2FUntitled-design-2-1.jpg&signature=9e7458c1a3f6e10ad141af35b690e49d",
+            "publishedAt": "2022-12-26T09:36:42Z",
+            "content": "In the month after Elon Musk triumphantly announced his takeover of Twitter with his now famous the bird is freed tweet, he implemented a large-scale cull of the social media platforms global workfor… [+5110 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Indian fintech Money View valued at $900 million in new funding",
+            "description": "Indian fintech Money View said on Monday it has raised $75 million in a new funding round, its second this year, despite the market slump as it looks to scale its core credit business and build more products in the South Asian market. Apis Partners led Money …",
+            "url": "https://techcrunch.com/2022/12/26/indian-fintech-money-view-valued-at-900-million-in-new-funding/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-536118200.jpg?resize=1200,801",
+            "publishedAt": "2022-12-26T08:08:52Z",
+            "content": "Indian fintech Money View said on Monday it has raised $75 million in a new funding round, its second this year, despite the market slump as it looks to scale its core credit business and build more … [+2594 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": null,
+            "title": "The 2023 Complete Wine & Beer Tasting Bundle for $29",
+            "description": "Expires December 26, 2122 23:59 PST\n\n\n\n\n Buy now and get 91% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nWhen the weather gets cold, the lights go up, and the fireplace is set, there's nothing better than cozying up with a nice drink or having …",
+            "url": "https://deals.thenextweb.com/sales/the-2023-complete-wine-beer-tasting-bundle?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+            "urlToImage": "https://cdnp1.stackassets.com/c76848917325050fd860522acb23d44978d6c390/store/3f988bf4ce2d40d8d64af84a26a95127fa1da7e9e27852fc56f74ee34131/sale_319915_primary_image.jpg",
+            "publishedAt": "2022-12-26T00:00:01Z",
+            "content": "When the weather gets cold, the lights go up, and the fireplace is set, there's nothing better than cozying up with a nice drink or having a glass of wine over a lovely dinner conversation. Get the l… [+2315 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": null,
+            "title": "Home Activities with Kids Bundle for $19",
+            "description": "Expires December 26, 2122 23:59 PST\n\n\n\n\n Buy now and get 93% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nKeep little ones entertained through the long, cold days of winter with the Home Activities with Kids Bundle. It includes the courses Cooki…",
+            "url": "https://deals.thenextweb.com/sales/home-activities-with-kids-bundle?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+            "urlToImage": "https://cdnp1.stackassets.com/bc48f7a6bb80fdcc872d83948a7948ad1e670d85/store/3cb7610a7c53072012da3724cc395c426b2bd6a5c18fc29e09299b68e200/sale_319910_primary_image.jpg",
+            "publishedAt": "2022-12-26T00:00:01Z",
+            "content": "Keep little ones entertained through the long, cold days of winter with the Home Activities with Kids Bundle. It includes the courses Cooking With Kids, Quilting with Kids, and Home Science Experimen… [+1962 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": null,
+            "title": "M-30+ Super Compact Laser Distance Meter for $69",
+            "description": "TNW Deals scours the web for the newest software, gadgets & web services. Explore our giveaways, bundles, Pay What You Want deals & more.",
+            "url": "https://deals.thenextweb.com/sales/m-30-super-compact-laser-distance-meter-4?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+            "urlToImage": "https://cdnp2.stackassets.com/e0095ed78dbbd6d91df071b433ea524b67d48bd8/store/6a88649a84cdcffca4ad4a1b371329ccd62ea85d596c6a122721877b891e/image_processing20221220-72-1q3gz1p.jpg",
+            "publishedAt": "2022-12-25T22:52:53Z",
+            "content": "Welcome to the club\r\nSign up to see our latest collections, exclusive offers &amp; get 10% Off"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": null,
+            "title": "M-30+ Super Compact Laser Distance Meter for $69",
+            "description": "TNW Deals scours the web for the newest software, gadgets & web services. Explore our giveaways, bundles, Pay What You Want deals & more.",
+            "url": "https://deals.thenextweb.com/sales/m-30-super-compact-laser-distance-meter-2?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+            "urlToImage": "https://cdnp1.stackassets.com/f86569a23f8c85e7855bc2bb8ce93ec88051923b/store/6c7bd49e1d82cd415f1f416039ed983002dc0073e8bb153141c00fa752f4/image_processing20221220-72-d5osf.jpg",
+            "publishedAt": "2022-12-25T22:52:51Z",
+            "content": "Welcome to the club\r\nSign up to see our latest collections, exclusive offers &amp; get 10% Off"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Haje Jan Kamps",
+            "title": "Don’t stop writing, or your words will vanish off the page",
+            "description": "The year is coming to an end, and with it, I continue an annual tradition of writing a x words about x piece. This year, that means trying to cram the year 2022 into 2,022 words. As you might imagine, that’s a lot. I usually write 5,000-6,000 words and then h…",
+            "url": "https://techcrunch.com/2022/12/25/the-most-dangerous-writing-app/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/dangerous-Large.jpeg?resize=1200,632",
+            "publishedAt": "2022-12-25T17:55:31Z",
+            "content": "The year is coming to an end, and with it, I continue an annual tradition of writing a x words about x piece. This year, that means trying to cram the year 2022 into 2,022 words. As you might imagine… [+2871 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": null,
+            "title": "Anker 511 Charger (Nano) for $18",
+            "description": "Expires December 20, 2122 02:01 PST\n\n\n\n\n Buy now and get 0% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n…",
+            "url": "https://deals.thenextweb.com/sales/anker-b-511-b-charger-nano-5?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+            "urlToImage": "https://cdnp0.stackassets.com/f27a53055fb5efbcc81838d4b559b063bd6b98d8/store/fb458750358fc957f1eb1dc2cfa1f283ee18bd3724eb6b7599fe7a85f182/image_processing20221220-72-1o8exif.jpg",
+            "publishedAt": "2022-12-25T02:01:43Z",
+            "content": "Welcome to the club\r\nSign up to see our latest collections, exclusive offers &amp; get 10% Off"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Amanda Silberling",
+            "title": "This year in tech felt like a simulation - TechCrunch",
+            "description": "This year in tech, too much happened and very little of it made sense, so we might just be at the whims of a random number generator.",
+            "url": "https://techcrunch.com/2022/12/24/this-year-in-tech-felt-like-a-simulation/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/vr-headset-abstract-simulation.jpg?resize=1200,799",
+            "publishedAt": "2022-12-24T17:00:33Z",
+            "content": "This year in tech, too much happened and very little of it made sense. It was like we were being controlled by a random number generator that would dictate the whims of the tech industry, leading to … [+4860 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Forristal",
+            "title": "How to track Santa Claus this Christmas Eve",
+            "description": "If you’re a parent with young children, then you’ll probably hear this a lot on Christmas Eve: “Where’s Santa right now?” With tracking tools like the NORAD Santa Tracker and Google’s Santa Tracker, everyone can know when Father Christmas will arrive. Here’s …",
+            "url": "https://techcrunch.com/2022/12/24/how-to-track-santa-claus-this-christmas-eve-2022/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/pexels-photo-6113449.jpg",
+            "publishedAt": "2022-12-24T14:00:49Z",
+            "content": "If youre a parent with young children, then you’ll probably hear this a lot on Christmas Eve: Wheres Santa right now? With tracking tools like the NORAD Santa Tracker and Googles Santa Tracker, every… [+3324 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Daily Crunch: Meta to pay $725M settlement in Cambridge Analytica data access case",
+            "description": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+            "url": "https://techcrunch.com/2022/12/23/meta-to-pay-725m-settlement-in-cambridge-analytica-data-access-case/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1368412925.jpg?resize=1200,789",
+            "publishedAt": "2022-12-23T23:05:32Z",
+            "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PDT,subscribe here.\r\nToday we celebrate a bit of oversight over an industry that has bee… [+4206 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Greg Kumparak",
+            "title": "TechCrunch's Favorite Things of 2022",
+            "description": "We made it! Another year (nearly!) complete. Go team! The end of the year means many things — holidays, food, family, reflection, etc. Around these parts, it also means it’s time for the TechCrunch Favorite Things list. Each year Team TechCrunch puts together…",
+            "url": "https://techcrunch.com/2022/12/23/techcrunchs-favorite-things-of-2022/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/gift-guide-22-favorite-things.jpg?resize=1200,645",
+            "publishedAt": "2022-12-23T20:06:45Z",
+            "content": "We made it! Another year (nearly!) complete. Go team!\r\nThe end of the year means many things holidays, food, family, reflection, etc. Around these parts, it also means it’s time for the TechCrunch Fa… [+26291 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ingrid Lunden",
+            "title": "How Mastodon is scaling amid the Twitter exodus",
+            "description": "Twitter is in crisis these days. Under new owner Elon Musk, the service has lost more than half its staff through layoffs and quitting, made erratic moves in its product and platform strategies and is facing up to reports about its financial state. That d",
+            "url": "https://techcrunch.com/2022/12/23/how-mastodon-is-scaling-amid-the-twitter-exodus/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/mastodon-app-ios.jpg?resize=1200,675",
+            "publishedAt": "2022-12-23T19:46:20Z",
+            "content": "Twitter is in crisis these days. Under new owner Elon Musk, the service has lost more than half its staff through layoffs and quitting, made erratic moves in its product and platform strategies and i… [+9790 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ingrid Lunden",
+            "title": "Mastodon creator Eugen Rochko talks funding and how to build the anti-Twitter",
+            "description": "Mastodon’s success has somewhat taken its creator Eugen Rochko by surprise, but he's steadfast on maintaining its non-profit nature.\nMastodon creator Eugen Rochko talks funding and how to build the anti-Twitter by Ingrid Lunden originally published on TechCru…",
+            "url": "https://techcrunch.com/2022/12/23/mastodon-creator-eugen-rochko-talks-funding-and-how-to-build-the-anti-twitter/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/eugen-rochko-mastodon.jpg?resize=1200,645",
+            "publishedAt": "2022-12-23T19:45:26Z",
+            "content": "Eugen Rochko came up with the idea for and built Mastodon some six years ago during another one of Twitter’s dips. A developer who had already been interested in and was working with open source soft… [+3767 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Dominic-madori Davis",
+            "title": "3 Black investors share what they are prepping for come the new year",
+            "description": "For 2023, it appears investors are focusing on trends that are relatively safer and likelier to bear fruit.",
+            "url": "https://techcrunch.com/2022/12/23/3-black-investors-share-what-they-are-prepping-for-come-the-new-year/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-957043250.jpg?resize=1200,750",
+            "publishedAt": "2022-12-23T19:00:40Z",
+            "content": "This years been eventful for investors and founders alike. Just as it seemed the venture capital boom of 2021 was slowing down, the startup and VC worlds spun on their axes practically overnight, bir… [+1751 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Walter Thompson",
+            "title": "TechCrunch+ roundup: Headcount data study, SaaS sales mistakes, financial close strategies",
+            "description": "Startups that don't have PMF, supportive investors or a manageable burn rate should already be planning to reduce headcount.",
+            "url": "https://techcrunch.com/2022/12/23/techcrunch-roundup-headcount-data-study-saas-sales-mistakes-financial-close-strategies/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-119684387.jpg?resize=1200,793",
+            "publishedAt": "2022-12-23T18:00:38Z",
+            "content": "For the last 24 months, Thomvest Ventures recorded headcount data for 150 Series A to C enterprise SaaS startups, and we have the numbers.\r\nThis report prepared by Eddie Ackerman, Thomvest’s strategi… [+5829 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Haje Jan Kamps",
+            "title": "Backed by Electrolux, Mila raises at a $52M valuation to add smarts to fresh air",
+            "description": "Mila created an air cleaner with a choice of filters to suit the use case and price point customers were interested in, along with an array of sensors.",
+            "url": "https://techcrunch.com/2022/12/23/mila-series-a/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/mila-hero-Large.jpeg?resize=1200,659",
+            "publishedAt": "2022-12-23T17:32:30Z",
+            "content": "Three years ago, Mila showed up on Kickstarter with its smart air purifier. The company created an air cleaner with a choice of different filters to suit the use case (and price point) customers were… [+6762 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Annie Njanja",
+            "title": "Questions linger over Facebook, Twitter, TikTok's commitment to uphold election integrity in Africa, as countries head to polls",
+            "description": "Questions linger over Facebook, Twitter, TikTok's commitment to uphold election integrity in Africa, as countries head to pollstechcrunch.com",
+            "url": "https://techcrunch.com/2022/12/23/questions-linger-over-facebook-twitter-tittoks-commitment-to-uphold-election-integrity-in-africa-as-countries-head-to-polls/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/gettyimages-1230783269-594x594-1.jpg",
+            "publishedAt": "2022-12-23T17:07:47Z",
+            "content": "A dozen countries in Africa including Nigeria, the continents biggest economy and democracy, are expected to hold their presidential elections next year, and questions linger on how well social media… [+8068 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ron Miller",
+            "title": "While Amazon had a rocky year, AWS remains reliable cash cow",
+            "description": "Although Amazon as a whole has hit a bit of a post-peak pandemic rough patch, AWS keeps delivering.",
+            "url": "https://techcrunch.com/2022/12/23/while-amazon-had-a-rocky-year-aws-remains-reliable-cash-cow/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/IMG_1039.jpeg?resize=1200,1006",
+            "publishedAt": "2022-12-23T17:00:47Z",
+            "content": "Back in March 2020, when the world shut down, Amazon became the worlds go-to online store. When people couldnt leave their homes, it became imperative to have goods come to them, and Amazon thrived. … [+2364 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Macaulay",
+            "title": "Has the EU’s Graphene Flagship hit its 10-year targets?",
+            "description": "In the spring of 2010, physicist Jari Kinaret received an email from the European Commission. The EU’s executive arm was seeking pitches from scientists for ambitious new megaprojects. Known as flagships, the initiatives would focus on innovations that could …",
+            "url": "https://thenextweb.com/news/has-eu-graphene-flagship-hit-its-10-year-targets",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F12%2FUntitled-design-4-2.jpg&signature=bc242b71a943146a93b4b652d4940f22",
+            "publishedAt": "2022-12-23T16:06:50Z",
+            "content": "In the spring of 2010, physicist Jari Kinaret received an email from the European Commission. The EUs executive arm was seeking pitches from scientists for ambitious new megaprojects. Known as flagsh… [+8219 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Macaulay",
+            "title": "UK tech sector ranks first in Europe with $1 trillion valuation - TNW",
+            "description": "New research values the UK tech industry at a whopping $1 trillion (€942 billion)  — making it comfortably the leading ecosystem in Europe.\r\n\r\nThis sector is now worth more than ...",
+            "url": "https://thenextweb.com/news/uk-europe-top-tech-sector-with-1-trillion-valuation",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/growth-quarters?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F12%2Fdigital-europe.jpg&signature=485608a6ed41bd7ca5a1b1897213f339",
+            "publishedAt": "2022-12-23T15:21:00Z",
+            "content": "New research values the UK tech industry at a whopping $1 trillion (942 billion)  making it comfortably the leading ecosystem in Europe.\r\nThis sector is now worth more than double Germanys ($467.2 bi… [+2217 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Tim De Chant",
+            "title": "Clean energy investments may close 2022 hitting new heights, setting stage for lofty 2023",
+            "description": "This year has been all about energy — who has it, who doesn't and how much it costs. Investors took note.",
+            "url": "https://techcrunch.com/2022/12/23/clean-energy-investments-may-close-2022-hitting-new-heights-setting-stage-for-lofty-2023/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1145372130.jpg?resize=1200,800",
+            "publishedAt": "2022-12-23T15:00:31Z",
+            "content": "In case anyone asks, 2022 was all about energy natural gas, oil, renewables, all of it. Natural gas prices surged early as Vladimir Putins poorly thought-out decision to invade Ukraine slashed gas de… [+677 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Matt Burns",
+            "title": "Tesla announces a $300 charging mat that can recharge 3 devices at once",
+            "description": "Remember the Apple Airpower charging mat? Announced in 2017, the device was supposed to recharge three devices simultaneously, but Apple never released it, citing engineering issues. Now, Tesla is giving it a shot with the just-announced Wireless Charging Pla…",
+            "url": "https://techcrunch.com/2022/12/23/tesla-300-charging-mat-airpower/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/apple-wwdc-2022-2022-12-23-at-9.49.31-AM.jpg?resize=1200,751",
+            "publishedAt": "2022-12-23T14:52:47Z",
+            "content": "Remember the Apple Airpower charging mat? Announced in 2017, the device was supposed to recharge three devices simultaneously, but Apple never released it, citing engineering issues. Now, Tesla is gi… [+1017 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Eddie Ackerman",
+            "title": "Headcount growth is slowing as startups prepare for worst-case scenarios",
+            "description": "It's not just the big names pulling back on headcount. SaaS startups have also frozen hiring and laid people off for almost half a year now.",
+            "url": "https://techcrunch.com/2022/12/23/headcount-growth-is-slowing-as-startups-prepare-for-worst-case-scenarios/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-200379341-002.jpg?resize=1200,971",
+            "publishedAt": "2022-12-23T13:01:29Z",
+            "content": "Recent headlines have been dominated by announcements of large headcount reductions across the tech industry and especially at giants like Meta, Amazon and Twitter. But it’s not just the big names pu… [+3300 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "Mainland Europe finally gets its first satellite launch facility",
+            "description": "On January 13, 2023, Spaceport Esrange — mainland Europe's first satellite launch facility — will be inaugurated in Sweden. This marks a critical milestone for the continent’s ...",
+            "url": "https://thenextweb.com/news/mainland-europe-gets-first-satellite-launch-facility",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F12%2FUntitled-design-97-11.jpg&signature=d32d39d1439513d5e4bb2cf2302e787f",
+            "publishedAt": "2022-12-23T10:23:30Z",
+            "content": "On January 13, 2023, Spaceport Esrange mainland Europes first satellite launch facility will be inaugurated in Sweden. This marks a critical milestone for the continents space industry.\r\nSpaceport Es… [+1898 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Paul Sawers",
+            "title": "Facebook parent Meta to settle Cambridge Analytica class-action lawsuit for $725M",
+            "description": "Facebook's parent company Meta has agreed a $725 million settlement to resolve a class-action lawsuit related to the Cambridge Analytica data harvesting...",
+            "url": "https://techcrunch.com/2022/12/23/meta-to-settle-facebooks-cambridge-analytica-class-action-lawsuit-for-725m/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/nPdVNZ1XaZHI7GbE0uS2QA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/2887b5ec92585a219e6a1331c0b30456",
+            "publishedAt": "2022-12-23T09:55:49Z",
+            "content": "Facebook's parent company Meta has agreed a $725 million settlement to resolve a class-action lawsuit related to the Cambridge Analytica data harvesting scandal.\r\nFirst reported by Reuters earlier to… [+3568 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Google appeals against India’s fine over business practices on Android - TechCrunch",
+            "description": "Google has appealed against the Indian antitrust body's order against the firm over alleged anti-competitive practices related to Android.",
+            "url": "https://techcrunch.com/2022/12/23/google-appeals-against-india-fine-over-unfair-business-practices-on-android/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1238035708.jpg?resize=1200,800",
+            "publishedAt": "2022-12-23T08:07:49Z",
+            "content": "Google said on Friday it has appealed against the Indian antitrust body’s order against the firm over alleged anti-competitive practices surrounding Android mobile devices in the key overseas market.… [+1527 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Connie Loizos",
+            "title": "Persistent Jack Sweeney brings back @ElonJet (but delayed) to Twitter",
+            "description": "More than a week after being banned from Twitter, Jack Sweeney, the University of Central Florida sophomore who has been a pain in the side of Elon Musk for at least the past year, has a new account on the platform. Called @ElonJetNexDay, the hours-old accoun…",
+            "url": "https://techcrunch.com/2022/12/22/jack-sweeney-brings-back-elonjet-but-delayed-to-twitter/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1256472841.jpeg?resize=1200,800",
+            "publishedAt": "2022-12-23T06:12:07Z",
+            "content": "More than a week after being banned from Twitter, Jack Sweeney, the University of Central Florida sophomore who has been a pain in the side of Elon Musk for at least the past year, has a new account … [+3438 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "Twitter Blue users can now upload 60-minute long videos",
+            "description": "After taking over Twitter, Elon Musk had long promised that the company is working toward making the platform more appealing to video creators. Today, Twitter updated the Twitter Blue page declaring that subscribers can now upload 60-minute-long videos from t…",
+            "url": "https://techcrunch.com/2022/12/22/twitter-blue-users-can-now-upload-60-minute-long-videos/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/twitter-blue-breaking.jpg?resize=1200,645",
+            "publishedAt": "2022-12-23T06:03:35Z",
+            "content": "After taking over Twitter, Elon Musk had long promised that the company is working toward making the platform more appealing to video creators. Today, Twitter updated the Twitter Blue page declaring … [+1897 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Flipkart and PhonePe complete separation",
+            "description": "Indian e-commerce giant Flipkart no longer owns a stake in payments firm PhonePe. The two said on Friday that they have completed full ownership separation of PhonePe and shareholders in the Singapore entities of both firms have purchased shares directly in P…",
+            "url": "https://techcrunch.com/2022/12/22/flipkart-and-phonepe-complete-separation/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-868500396.jpg?resize=1200,800",
+            "publishedAt": "2022-12-23T05:04:28Z",
+            "content": "Indian e-commerce giant Flipkart no longer owns a stake in payments firm PhonePe. The two said on Friday that they have completed full ownership separation of PhonePe and shareholders in the Singapor… [+1508 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": null,
+            "title": "Apple iPad Gen 8th Gen 10.2\" 32GB - Gold (Refurbished: Wi-Fi Only) for $365",
+            "description": "Expires December 23, 2122 23:59 PST\n\n\n\n\n Buy now and get 8% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nThis refurbished iPad is your ultimate digital notebook, mobile office, photo studio, game console, and personal cinema. The A12 Bio…",
+            "url": "https://deals.thenextweb.com/sales/refurbished-apple-ipad-8th-gen-10-2-inch-32gb-gold-wifi-only-a2270?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+            "urlToImage": "https://cdnp3.stackassets.com/f9e1562de99168a331c254d13472c27607ad0440/store/feb9affd4e3df26c23979d520ab42193a818f1fe1b13c9dfaf07245d144f/sale_319913_primary_image.jpg",
+            "publishedAt": "2022-12-23T00:00:01Z",
+            "content": "This refurbished iPad is your ultimate digital notebook, mobile office, photo studio, game console, and personal cinema. The A12 Bionic chip can easily power essential apps and immersive games. So yo… [+886 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": null,
+            "title": "Apple iPad 7th Gen 10.2\" 32GB - Space Gray (Refurbished: Wi-Fi + Cellular Unlocked) for $387",
+            "description": "Expires December 23, 2122 23:59 PST\n\n\n\n\n Buy now and get 22% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nWith iPad 7th Gen, it’s everything you’ve always wanted and more. A thin, lightweight design that fits easily in your hand.…",
+            "url": "https://deals.thenextweb.com/sales/refurbished-apple-ipad-7th-gen-10-2-inch-32gb-space-gray-cellular-unlocked-a2200?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+            "urlToImage": "https://cdnp1.stackassets.com/13fded7a89abffdaf60e585a438744834e98eb13/store/9ac8b678216fb7fcf6c880050ced063804d246aabc5ca822466f26d5a0db/sale_319912_primary_image.jpg",
+            "publishedAt": "2022-12-23T00:00:01Z",
+            "content": "With iPad 7th Gen, its everything youve always wanted and more. A thin, lightweight design that fits easily in your hand. Exceptional performance across the board including powerful audio, brilliant … [+1116 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": null,
+            "title": "Apple iPad Mini 5th Gen 64GB - Space Gray (Refurbished: Wi-Fi + Cellular Unlocked) for $415",
+            "description": "Expires December 23, 2122 23:59 PST\n\n\n\n\n Buy now and get 7% off\n\n\n\n\n \n \n \n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n \n \r\n\n \n\n \n KEY FEATURES\r\nThe Apple iPad mini 5 is the perfect portable companion for surfing the web, playing games, watching movies and more. This i…",
+            "url": "https://deals.thenextweb.com/sales/refurb-apple-ipad-mini-5th-gen-64gb-space-gray-cellular-unlocked-a2126?aid=&utm_campaign=feed&utm_medium=RSS&utm_source=thenextweb",
+            "urlToImage": "https://cdnp3.stackassets.com/508464aa30b0970da480bac1856f2adb6052535b/store/c43dc8f511003521cc7d2c21d54a3cee284ad15d69991c462939e449b86c/sale_319911_primary_image.jpg",
+            "publishedAt": "2022-12-23T00:00:01Z",
+            "content": "The Apple iPad mini 5 is the perfect portable companion for surfing the web, playing games, watching movies and more. This iPad mini features a 7.9\" Retina Display with a native resolution of 2048 x … [+1080 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Daily Crunch: 2 former SBF associates plead guilty to fraud and are cooperating with US federal prosecutors",
+            "description": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+            "url": "https://techcrunch.com/2022/12/22/daily-crunch-2-former-sbf-associates-plead-guilty-to-fraud-and-are-cooperating-with-us-federal-prosecutors/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/ftx-broken-on-fire.jpg?resize=1200,645",
+            "publishedAt": "2022-12-22T23:07:05Z",
+            "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PDT,subscribe here.\r\nWell, the weather outside isentirely dependent on where you are, we… [+2991 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Devin Coldewey",
+            "title": "The FCC can finally hammer predatory prison phonecall companies, thanks to just-passed bill",
+            "description": "A brand new law will let the Federal Communications Commission directly regulate rates in the notoriously predatory prison calling industry.",
+            "url": "https://techcrunch.com/2022/12/22/the-fcc-can-finally-hammer-predatory-prison-phonecall-companies-thanks-to-just-passed-bill/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/12/inmate-video-call.jpg?resize=1200,675",
+            "publishedAt": "2022-12-22T22:56:06Z",
+            "content": "A brand-new law (awaiting only the president’s signature) will let the Federal Communications Commission directly regulate rates in the notoriously predatory prison calling industry. Under the threat… [+4366 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "LastPass says hackers stole customers' password vaults",
+            "description": "The password manager giant said hackers stole both encrypted and unencrypted customer data, including password vaults.",
+            "url": "https://techcrunch.com/2022/12/22/lastpass-customer-password-vaults-stolen/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/lastpass-password-manager.jpg?resize=1200,802",
+            "publishedAt": "2022-12-22T21:47:38Z",
+            "content": "Password manager giant LastPass has confirmed that cybercriminals stole its customers’ encrypted password vaults, which store its customers’ passwords and other secrets, in a data breach earlier this… [+2756 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "Tesla’s $7,500 discount feels desperate, and it's giving investors the ick",
+            "description": "Tesla has increased its discount to $7,500 to encourage deliveries by end of year, and its stock price sunk as investors fear low demand.",
+            "url": "https://techcrunch.com/2022/12/22/teslas-7500-discount-feels-desperate-and-its-giving-investors-the-ick/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1239417284.jpg?resize=1200,715",
+            "publishedAt": "2022-12-22T20:49:56Z",
+            "content": "Tesla started out the month of December by offering Model 3 and Model Y buyers in the U.S. a $3,750 credit if they have their vehicle delivered in December 2022. Now with a week left in the month, th… [+2569 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jacquelyn Melinek",
+            "title": "'Tis the season for more FTX charges",
+            "description": "'Tis the season to be jolly and check your crypto portfolio before buying a few more holiday gifts for your family and friends.",
+            "url": "https://techcrunch.com/2022/12/22/tis-the-season-for-sbfs-extradition/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/05/chain-reaction-2022.jpg?resize=1200,1200",
+            "publishedAt": "2022-12-22T20:00:47Z",
+            "content": "Welcome back to Chain Reaction.\r\nAnd happy holidays!\r\nTis the season to be jolly and check your crypto portfolio before buying a few more holiday gifts for your family and friends. It’s also tis seas… [+5083 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Dominic-madori Davis",
+            "title": "3 Black investors talk about what they're looking for in 2023",
+            "description": "To find out how minority investors are planning for 2023, we spoke with three active Black investors.",
+            "url": "https://techcrunch.com/2022/12/22/3-black-investors-talk-about-what-theyre-looking-for-in-2023/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1124739005.jpg?resize=1200,800",
+            "publishedAt": "2022-12-22T20:00:32Z",
+            "content": "Founders and investors alike are bracing for a tough 2023 as the economy shows few signs of improving. But there are a lot of questions up in the air: Will the truckload of dry powder VCs have make i… [+3660 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Brian Heater",
+            "title": "Notes on robotics research",
+            "description": "Actuator: U.C. Berkeley/Ambi Robotics' Ken Goldberg discusses the biggest robotics trends of 2022 and what to expect in 2023.",
+            "url": "https://techcrunch.com/2022/12/22/2451921/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/08/actuator-blue.jpg?resize=1200,675",
+            "publishedAt": "2022-12-22T19:30:32Z",
+            "content": "Happy holidays from the Ghost of Actuator Past. I’m writing you from the beginning of the month and hopefully not checking my work email or Slack as you’re reading this. I’ll be back in action next w… [+3336 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Haje Jan Kamps",
+            "title": "Sample Angel pitch deck: Card Blanch's $460K deck",
+            "description": "We've seen attempts at gathering all cards (credit, debit, loyalty, etc.) in one before, but Card Blanch claims to have a fresh take on the concept.",
+            "url": "https://techcrunch.com/2022/12/22/sample-angel-pitch-deck-card-blanch/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/CardBlanchAngelPitchDeckTechCrunchPitchDeckTeardown-Slide-COVER.jpg?resize=1200,675",
+            "publishedAt": "2022-12-22T19:01:08Z",
+            "content": "We’ve seen attempts at gathering all cards (credit, debit, loyalty, etc.) in one before, but Card Blanchclaims to have a fresh take on the concept and closed just shy of half a mil worth of angel inv… [+3884 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Amanda Silberling",
+            "title": "Twitter lays off employees in public policy, engineering",
+            "description": "Despite already cutting thousands of employees, the layoffs at Twitter continue.  According to posts on Twitter and LinkedIn from a former public policy...",
+            "url": "https://techcrunch.com/2022/12/22/twitter-lays-off-employees-in-public-policy-engineering/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7bga3x9fOGOfZKnPG1.VkQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_350/981691f1c2149951363eabc4029fe9e8",
+            "publishedAt": "2022-12-22T18:51:05Z",
+            "content": "Despite already cutting thousands of employees, the layoffs at Twitter continue. According to posts on Twitter and LinkedIn from a former public policy employee, Twitter cut half of its public policy… [+2081 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mary Ann Azevedo",
+            "title": "Fatal police shooting of startup founder puts Austin’s diversity problem in the spotlight",
+            "description": "For years, Austin has made headlines as an evolving tech hub where startups, large companies and investors alike have flocked to set up a presence. But as 2022 closes, the Texas capital is in the news for a very different, tragic reason – being home to the su…",
+            "url": "https://techcrunch.com/2022/12/22/fatal-police-shooting-of-startup-founder-puts-austins-diversity-problem-in-the-spotlight/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/Raj-Moonesinghe-r-Johann-Moonesinghe-l.jpeg?resize=1200,894",
+            "publishedAt": "2022-12-22T17:30:07Z",
+            "content": "Rajan Raj Moonesinghe (right) and his brother Johann Moonesinghe (left) pictured with their cousin (center) Credit: Johann Moonesinghe\r\nFor years, Austin has made headlines as an evolving tech hub wh… [+8142 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Reliance buys 23.3% stake in US-based AI firm Exyn",
+            "description": "Indian conglomerate Reliance has backed Philadelphia-based AI and robotics startup Exyn with $25 million investment.",
+            "url": "https://techcrunch.com/2022/12/22/reliance-buys-23-3-stake-in-us-based-ai-firm-exyn/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-148797000.jpg?resize=1200,800",
+            "publishedAt": "2022-12-22T17:16:40Z",
+            "content": "Reliance has backed Philadelphia-based AI and robotics startup Exyn, the Indian conglomerate disclosed in a stock exchange filing on Thursday, making further inroads in startups globally.\r\nReliance S… [+1390 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Simonds",
+            "title": "Uniswap Labs’ COO will judge pitches at the CCC Web3 Demo Day",
+            "description": "Uniswap Labs’ COO, Mary-Catherine Lader will be one of the judges at the Cross Chain Coalition Web3 Demo Day.",
+            "url": "https://techcrunch.com/2022/12/22/uniswap-labs-coo-will-judge-pitches-at-the-ccc-web3-demo-day/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/CCC_BLACK-featured-1.jpg",
+            "publishedAt": "2022-12-22T17:02:20Z",
+            "content": "Here comes the New Year and with it, resolution season. Why not resolve to do whatever it takes to build a stronger startup? Heres one easy, fun and effective step. Tune in for free to the Cross Chai… [+1899 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anna Heim",
+            "title": "Amid renewed interest, startups are changing how bonds are traded",
+            "description": "The fact that laypeople are discussing bonds is a noteworthy development for an asset class that didn't use to raise much enthusiasm from retail investors.",
+            "url": "https://techcrunch.com/2022/12/22/amid-renewed-interest-startups-are-changing-how-bonds-are-traded/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3_GRY.jpg?resize=1200,900",
+            "publishedAt": "2022-12-22T17:00:54Z",
+            "content": "Bonds are having a “meme moment” on Reddit, Bloomberg reported.\r\nA caveat first: The trend is not on par with WallStreetBets and its meme stock frenzy. The r/bonds subreddit forum only has some 8,000… [+1185 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Amanda Silberling",
+            "title": "Twitter now shows how many people view your tweets",
+            "description": "Twitter is rolling out a feature that shows how many people view your tweets, similar to features on platforms like YouTube that show how many times a video has been viewed. “Twitter is rolling out View Count, so you can see how many times a tweet has been se…",
+            "url": "https://techcrunch.com/2022/12/22/twitter-now-shows-how-many-people-view-your-tweets/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/twitter-bird-in-cage-3.jpg?resize=1200,645",
+            "publishedAt": "2022-12-22T16:44:58Z",
+            "content": "Twitter is rolling out a feature that shows how many people view your tweets, similar to features on platforms like YouTube that show how many times a video has been viewed.\r\n“Twitter is rolling out … [+2110 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Zack Whittaker",
+            "title": "Even the FBI says you should use an ad blocker",
+            "description": "The feds say cybercriminals are buying online ads to impersonate brands with the aim of stealing or extorting money from victims.",
+            "url": "https://techcrunch.com/2022/12/22/fbi-ad-blocker/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/ad-blocker-fbi.jpg?resize=1200,801",
+            "publishedAt": "2022-12-22T16:23:04Z",
+            "content": "This holiday season, consider giving the gift of security with an ad blocker.\r\nThat’s the takeaway message from an unlikely source the FBI which this week issued an alert warning that cybercriminals … [+2473 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ryan Petersen",
+            "title": "Holiday shipping is easier this year, but the tech is still lagging",
+            "description": "If we don’t act now and improve shipping technologies, the logjams we've had to endure for the past two years will become commonplace.",
+            "url": "https://techcrunch.com/2022/12/22/holiday-shipping-is-easier-this-year-but-the-tech-is-still-lagging/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1425117082.jpg?resize=1200,800",
+            "publishedAt": "2022-12-22T16:01:08Z",
+            "content": "Compared to last years holiday season, major maritime trade routes are operating relatively smoothly, while shipping rates are returning to Earth and ports are moving cargo at a steady clip.\r\nNow tha… [+1706 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Forristal",
+            "title": "VFX studio Perception takes us inside the tech of ‘Black Panther: Wakanda Forever’",
+            "description": "Perception, a VFX lab, was assigned the challenging task of designing most of the technology seen in “Black Panther: Wakanda Forever.”",
+            "url": "https://techcrunch.com/2022/12/22/vfx-studio-perception-black-panther-wakanda-forever/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/8sMmAmN2x7mBiNKEX2o0aOTozEB.jpg?resize=1200,675",
+            "publishedAt": "2022-12-22T16:00:32Z",
+            "content": "Visual effects artists, especially the ones that work on Marvel films, are in more demand than ever and rarely get enough credit. Nearly a dozen VFX houses contribute to one Marvel project. Perceptio… [+8218 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ioanna Lykiardopoulou",
+            "title": "The European Innovation Council splashes some cash on another 78 startups",
+            "description": "As part of the 2022 European Innovation Council (EIC) Accelerator program, the Commission selected 78 startups and SMEs to receive up to €470 million in funding.\r\n\r\nDepending on its ...",
+            "url": "https://thenextweb.com/news/european-innovation-council-splashes-cash-on-another-78-startups",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F12%2FEEEIC.jpg&signature=00c7f1babb401d97f59deb11d5cfacbe",
+            "publishedAt": "2022-12-22T15:51:59Z",
+            "content": "As part of the 2022 European Innovation Council (EIC) Accelerator program, the Commission selected 78 startups and SMEs to receive up to 470 million in funding.\r\nDepending on its needs, each company … [+2021 chars]"
+        }
+    ]
+}
